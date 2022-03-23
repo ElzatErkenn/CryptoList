@@ -280,6 +280,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Ethereum](https://www.amazon.com/Ethereum-Blockchains-Decentralized-Autonomous-Organizations/dp/1523930470) - Non-technical guide to understand blockchains. Mostly focused on Ethereum.
 * [The Age of Cryptocurrency](https://www.amazon.com/Age-Cryptocurrency-Blockchain-Challenging-Economic/dp/1250081556) - Insight into the modern financial system and the Bitcoin industry.
 * [Programming Cryptocurrencies and Blockchains](http://yukimotopress.github.io/blockchains) - Learn to build your own blockchains and peer-to-peer central bank nodes from scratch.
+* [Web3Center - Coaching for Web3](https://web3center.org/) - Has coaches that provides coaching for anyone that wants to learn about Crypto, NFT and Metaverse.
 
 ## Courses
 * [Coursera Course](https://www.coursera.org/learn/cryptocurrency) - Telling what is special about Bitcoin and how it works at technical level. Created by Princeton University.
